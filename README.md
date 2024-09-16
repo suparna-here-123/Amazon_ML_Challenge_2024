@@ -3,5 +3,5 @@
 This project aims to extract information for a given quantity like weight, height, width, volume and other entities given an image of a product.
 
 ## Tech stack used
-PaddleOCR for text localization and recognition
+PaddleOCR for text localization and recognition </br>
 Spacy for NLP
